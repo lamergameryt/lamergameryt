@@ -1,6 +1,6 @@
 ### Hi, I am Harsh Patil 👋
 
-I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a high school student in his Junior year**.
+I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a high school student in his Senior Year**.
 
 <img align="right" alt="GIF" height="200px" width="200px" src="./assets/hello_world.gif" />
 
