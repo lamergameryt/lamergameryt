@@ -10,3 +10,5 @@ I work on open source projects while also doing freelancing 😄. I am learning 
 - 📫 How to reach me: ifung230@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love pizzas 🍕
+
+<img src="https://presence.lamergameryt.com/profile/287888563020890138" />
