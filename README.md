@@ -1,6 +1,6 @@
 ### Hi, I am Harsh Patil 👋
 
-I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a high school student in his Senior Year**.
+I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a college freshman student studying at Vishwakarma Institute of Technology.**.
 
 <img align="right" alt="GIF" height="200px" width="200px" src="./assets/hello_world.gif" />
 
@@ -10,5 +10,3 @@ I work on open source projects while also doing freelancing 😄. I am learning 
 - 📫 How to reach me: ifung230@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love pizzas 🍕
-
-<img src="https://presence.lamergameryt.com/profile/287888563020890138" />
