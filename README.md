@@ -1,6 +1,6 @@
 ### Hi, I am Harsh Patil 👋
 
-I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a college freshman student studying at Vishwakarma Institute of Technology.**.
+I work on open source projects while also doing freelancing 😄. I am learning Aritifial Intelligence and Machine Learning. **Currently a college sophomore student studying at Vishwakarma Institute of Technology.**.
 
 <img align="right" alt="GIF" height="200px" width="200px" src="./assets/hello_world.gif" />
 
