@@ -1,7 +1,7 @@
 <h2> Hi, I'm Harsh Patil!</h2>
 <p><em>Student at <a href="https://www.vit.edu/">Vishwakarma Institute of Technology</a></em></p>
 
-[![Linkedin: Harsh Patil](https://img.shields.io/badge/-hpatil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hpatil/)](https://www.linkedin.com/in/hpatil/)
+[![Linkedin: Harsh Patil](https://img.shields.io/badge/-Harsh%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hpatil/)](https://www.linkedin.com/in/hpatil/)
 [![GitHub: Harsh Patil](https://img.shields.io/github/followers/lamergameryt?label=follow&style=social)](https://github.com/lamergameryt)
 
 
